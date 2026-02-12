@@ -45,18 +45,4 @@ To start the server, execute:
 streamlit run server_streamlit.py
 ```
 
-## Screenshots
 
-![Screenshot](https://github.com/harinaralasetty/Retrieval_Augmented_Generation/blob/main/Screenshot.png)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the Apache-2.0 license.
-
-## Contact
-
-For any questions or feedback, please contact me on LinkedIn: [Hari Naralasetty](https://www.linkedin.com/in/harinaralasetty/)
